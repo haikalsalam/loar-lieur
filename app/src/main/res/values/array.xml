@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="quiz_questions">
+        <item>Apa ibukota Indonesia?</item>
+        <item>Siapa presiden pertama Indonesia?</item>
+        <item>Berapa hasil dari 5 + 7?</item>
+        <item>Planet terdekat dengan Matahari adalah...</item>
+        <item>Tahun berapa Indonesia merdeka?</item>
+    </string-array>
+
+    <string-array name="quiz_options">
+        <item>Jakarta</item>
+        <item>Bandung</item>
+        <item>Surabaya</item>
+        <item>Medan</item>
+        <item>Soekarno</item>
+        <item>Soeharto</item>
+        <item>Joko Widodo</item>
+        <item>B.J. Habibie</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>Venus</item>
+        <item>Mars</item>
+        <item>Merkurius</item>
+        <item>Jupiter</item>
+        <item>1942</item>
+        <item>1945</item>
+        <item>1950</item>
+        <item>1955</item>
+    </string-array>
+
+    <integer-array name="quiz_answers">
+        <item>0</item> <item>0</item> <item>2</item> <item>2</item> <item>1</item> </integer-array>
+</resources>
